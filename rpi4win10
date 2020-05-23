@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/raspberrypi4-windows10/assets/css/style.css?v=8573bc935f66c7371b037141f08553c3d2f2dfeb">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>树莓派WOR安装之后处理进程 | raspberrypi4-windows10</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="树莓派WOR安装之后处理进程" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="run windows10 arm on raspberrypi4" />
+<meta property="og:description" content="run windows10 arm on raspberrypi4" />
+<link rel="canonical" href="https://bzy-080408.github.io/raspberrypi4-windows10/" />
+<meta property="og:url" content="https://bzy-080408.github.io/raspberrypi4-windows10/" />
+<meta property="og:site_name" content="raspberrypi4-windows10" />
+<script type="application/ld+json">
+{"headline":"树莓派WOR安装之后处理进程","@type":"WebSite","url":"https://bzy-080408.github.io/raspberrypi4-windows10/","name":"raspberrypi4-windows10","description":"run windows10 arm on raspberrypi4","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/bzy-080408/raspberrypi4-windows10">View on GitHub</a>
+
+          <h1 id="project_title">raspberrypi4-windows10</h1>
+          <h2 id="project_tagline">run windows10 arm on raspberrypi4</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1 id="树莓派wor安装之后处理进程">树莓派WOR安装之后处理进程</h1>
+<h1 id="使用方法chinese">使用方法（Chinese）：</h1>
+<p>step0
+ 下载，，右键以管理员身份运行</p>
+
+<p>step1
+ 选择新建的NTFS分区盘符</p>
+
+<p>step2
+ 选择新建的FAT32分区盘符</p>
+
+<p>step3
+ 输入S经行部署镜像</p>
+
+<p>step4
+ 待应用更改完成之后输入E退出</p>
+
+<h1 id="how-to-use英语">How to use（英语）:</h1>
+
+<p>step0
+ Download, right-click to run as an administrator</p>
+
+<p>step1
+ Select a new NTFS partition disc character</p>
+
+<p>step2
+ Select a new FAT32 partition disc</p>
+
+<p>step3
+ Enter s line deployment mirror</p>
+
+<p>step7
+ Enter E exit after the application image is complete</p>
+<h1 id="注意attention">注意（Attention）：</h1>
+<p>1.此项目与pi64.win和WOR没有任何关系
+ This project has nothing to do with pi64.win and WOR</p>
+
+<p>2.镜像请到uupdump.ml网站下载
+ the image please go to uupdump.ml to download</p>
+
+<p># 下载 （download）
+ https://github.com/bzy-080408/raspberrypi4-windows10/releases/download/1.1.4/zh-cn.BAT</p>
+
+<h1 id="公告">公告：</h1>
+<p>接下来可能不会再有任何的更新！！！！！</p>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">raspberrypi4-windows10 maintained by <a href="https://github.com/bzy-080408">bzy-080408</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>
